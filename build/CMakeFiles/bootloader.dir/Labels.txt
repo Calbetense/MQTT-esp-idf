@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/papaleguas/Documents/PlatformIO/Projects/MQTT-esp-idf/build/CMakeFiles/bootloader
+/home/papaleguas/Documents/PlatformIO/Projects/MQTT-esp-idf/build/CMakeFiles/bootloader.rule
+/home/papaleguas/Documents/PlatformIO/Projects/MQTT-esp-idf/build/CMakeFiles/bootloader-complete.rule
+/home/papaleguas/Documents/PlatformIO/Projects/MQTT-esp-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/papaleguas/Documents/PlatformIO/Projects/MQTT-esp-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/papaleguas/Documents/PlatformIO/Projects/MQTT-esp-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/papaleguas/Documents/PlatformIO/Projects/MQTT-esp-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/papaleguas/Documents/PlatformIO/Projects/MQTT-esp-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/papaleguas/Documents/PlatformIO/Projects/MQTT-esp-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/papaleguas/Documents/PlatformIO/Projects/MQTT-esp-idf/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
