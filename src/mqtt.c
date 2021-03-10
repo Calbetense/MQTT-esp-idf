@@ -52,7 +52,7 @@ esp_mqtt_client_handle_t mqtt_init(){
     #endif
 
     const esp_mqtt_client_config_t mqtt_cfg = {
-        .uri = "mqtt://192.168.1.44",
+        .uri = "mqtt://mqtt.branati.com.br",
         .port = 1883,
         // .user_context = (void *)your_context
     };

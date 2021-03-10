@@ -13,16 +13,13 @@
 
 #include <mqtt_client.h>
 
+#include "secrets.h"
+
 // General
 #define D_G
 
-
-// WIFI
-#define SSID    "TESLA"
-#define PASSWD  "tebcampillo123"
-
 #define D_WIFI
-
+//WiFi Credentials in Secrets.h 
 
 // MQTT
 #define D_M
